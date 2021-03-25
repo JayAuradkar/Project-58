@@ -3,8 +3,15 @@
     border-radius: 50%;
 }
 body{
-  text-align:center
+  text-align:center;
+    background-color:aqua;
 }
-html{
-  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+.main_div{
+  background-color:aquamarine;
+}
+.menu{
+    background-color: #2d16e6; 
+}
+#About{
+    background-color: #5c9ad0;
 }
